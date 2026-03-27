@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile/hero-banner.svg" alt="catDforD profile banner" width="100%">
+  <img src="./assets/profile/hero-banner.png" alt="catDforD profile banner" width="100%">
 </p>
 
 <div align="center">
