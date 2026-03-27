@@ -1,0 +1,14 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="360" fill="#F5F0E7"/>
+  <rect x="48" y="48" width="1104" height="264" rx="20" fill="#F8F4EC" stroke="#D9D1C5"/>
+  <line x1="88" y1="117.5" x2="1112" y2="117.5" stroke="#D9D1C5"/>
+  <line x1="88" y1="248.5" x2="1112" y2="248.5" stroke="#D9D1C5"/>
+  <text fill="#6D685F" xml:space="preserve" style="white-space: pre" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="18" letter-spacing="0.14em"><tspan x="88" y="95.136">CATDFORD / PROFILE / 2026</tspan></text>
+  <text fill="#171614" xml:space="preserve" style="white-space: pre" font-family="'Georgia', 'Times New Roman', serif" font-size="58" font-weight="700" letter-spacing="-0.03em"><tspan x="88" y="186.418">Building tools and systems</tspan><tspan x="88" y="252.418">for clearer AI work.</tspan></text>
+  <text fill="#8A3B2E" xml:space="preserve" style="white-space: pre" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="18" letter-spacing="0.12em"><tspan x="88" y="287.136">CODING AGENTS</tspan></text>
+  <text fill="#8A3B2E" xml:space="preserve" style="white-space: pre" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="18" letter-spacing="0.12em"><tspan x="302" y="287.136">REMOTE TOOLS</tspan></text>
+  <text fill="#8A3B2E" xml:space="preserve" style="white-space: pre" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="18" letter-spacing="0.12em"><tspan x="519" y="287.136">SAFE CAPTURE</tspan></text>
+  <circle cx="1072" cy="88" r="8" fill="#233642"/>
+  <circle cx="1100" cy="88" r="8" fill="#8A3B2E"/>
+  <circle cx="1128" cy="88" r="8" fill="#171614"/>
+</svg>
