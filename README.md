@@ -17,7 +17,7 @@ Building tools, interfaces, and capture systems for clearer AI-assisted work.
 
 ### ✦ Current Focus ✦
 
-`Coding Agents` · `Remote Interfaces` · `Safe Workflows`
+`Agent` · `Remote Interfaces` · `Safe Workflows`
 
 </div>
 
