@@ -14,7 +14,9 @@ AI coding agent researcher & builder — Zhejiang University
 
 ### Featured Projects
 
-<table>
+<div align="center">
+
+<table align="center" width="100%">
   <tr>
     <td align="center" valign="top" width="33%">
       <a href="https://github.com/catDforD/coding-agent-lab">
@@ -59,7 +61,9 @@ AI coding agent researcher & builder — Zhejiang University
   </tr>
 </table>
 
-> Also building: [Polyphony](https://github.com/catDforD/Polyphony) · [ZhaoXi](https://github.com/catDforD/ZhaoXi) · [skills](https://github.com/catDforD/skills)
+<sub>Also building: <a href="https://github.com/catDforD/Polyphony">Polyphony</a> · <a href="https://github.com/catDforD/ZhaoXi">ZhaoXi</a> · <a href="https://github.com/catDforD/skills">skills</a></sub>
+
+</div>
 
 <br/>
 
