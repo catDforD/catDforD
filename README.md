@@ -16,34 +16,44 @@ AI coding agent researcher & builder — Zhejiang University
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" valign="top" width="33%">
       <a href="https://github.com/catDforD/coding-agent-lab">
         <img src="./assets/projects/coding-agent-lab.svg" width="120" alt="coding-agent-lab"/><br/>
         <strong>coding-agent-lab</strong>
       </a>
-      <br/>
-      <sub>Study, reproduce & compare coding agents</sub>
-      <br/>
-      <img src="https://img.shields.io/badge/Python-8A3B2E?style=flat-square&labelColor=171614&logo=python&logoColor=white" />
     </td>
-    <td align="center" width="33%">
+    <td align="center" valign="top" width="33%">
       <a href="https://github.com/catDforD/VibeLink">
         <img src="./assets/projects/vibelink.svg" width="120" alt="VibeLink"/><br/>
         <strong>VibeLink</strong>
       </a>
-      <br/>
-      <sub>Connect your vibe coding environment, anywhere</sub>
-      <br/>
-      <img src="https://img.shields.io/badge/Dart-233642?style=flat-square&labelColor=171614&logo=dart&logoColor=white" />
     </td>
-    <td align="center" width="33%">
+    <td align="center" valign="top" width="33%">
       <a href="https://github.com/catDforD/opencode_safe">
         <img src="./assets/projects/opencode-safe.svg" width="120" alt="opencode_safe"/><br/>
         <strong>opencode_safe</strong>
       </a>
-      <br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <sub>Study, reproduce & compare coding agents</sub>
+    </td>
+    <td align="center" valign="top">
+      <sub>Connect your vibe coding environment, anywhere</sub>
+    </td>
+    <td align="center" valign="top">
       <sub>Container-supervised safety for coding agents</sub>
-      <br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/Python-8A3B2E?style=flat-square&labelColor=171614&logo=python&logoColor=white" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/Dart-233642?style=flat-square&labelColor=171614&logo=dart&logoColor=white" />
+    </td>
+    <td align="center" valign="top">
       <img src="https://img.shields.io/badge/Python-8A3B2E?style=flat-square&labelColor=171614&logo=python&logoColor=white" />
     </td>
   </tr>
