@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
-  <title id="title">catDforD — The Agent Workshop</title>
+  <title id="title">catDforD — AI Agents</title>
   <desc id="description">Researching coding agents and building tools at Zhejiang University. A pixel cat and small robots share a quiet, moonlit workshop.</desc>
   <style>
     .cursor { animation: blink 1.6s step-end infinite; }
@@ -16,15 +16,9 @@
   <rect x="24" y="24" width="1152" height="312" rx="12" fill="url(#grid)"/>
   <!-- Introduction -->
   <g font-family="'Trebuchet MS', 'DejaVu Sans', sans-serif">
-    <rect x="52" y="49" width="8" height="8" fill="#80CDB5"/>
-    <text x="72" y="58" font-size="15" letter-spacing="3" fill="#B7C8C6">THE AGENT WORKSHOP</text>
-    <text x="48" y="150" font-size="84" font-weight="700" letter-spacing="-4" fill="#F5F0E7">catDforD</text>
-    <rect class="cursor" x="460" y="132" width="20" height="8" fill="#80CDB5"/>
-    <text x="52" y="198" font-size="26" fill="#F5F0E7">Curious about agents.</text>
-    <text x="52" y="234" font-size="26" fill="#F5F0E7">Serious about building.</text>
-    <text x="52" y="281" font-size="17" fill="#B7C8C6">AI coding agents · Zhejiang University</text>
-    <path d="M52 310h36" stroke="#DFA580" stroke-width="3"/>
-    <text x="100" y="315" font-size="13" letter-spacing="2" fill="#DFA580">RESEARCH / BUILD / REPEAT</text>
+    <text x="48" y="184" font-size="84" font-weight="700" letter-spacing="-4" fill="#F5F0E7">catDforD</text>
+    <rect class="cursor" x="460" y="166" width="20" height="8" fill="#80CDB5"/>
+    <text x="52" y="232" font-size="24" fill="#B7C8C6">AI Agents · Research &amp; Build</text>
   </g>
   <!-- A little workshop, assembled from the original pixel artwork -->
   <g clip-path="url(#room)">
