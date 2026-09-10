@@ -14,7 +14,7 @@
 
 **Hi, I'm catDforD.** A student at Zhejiang University, exploring how coding agents work and building tools around them.
 
-你好，我是 catDforD，就读于浙江大学。喜欢拆解 AI 编程工具，也喜欢把想法做成能用的东西。
+你好，我是 Gargantua，就读于浙江大学。喜欢拆解 AI 编程工具，也喜欢把想法做成能用的东西。
 
 - 🔬 **Research / 研究** — Agent 的规划、记忆与工具调用，从阅读实现到最小复现。
 - 🛠️ **Build / 构建** — 编程助手的交互与工作流，让长时间运行的任务更容易观察和控制。
