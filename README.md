@@ -1,6 +1,6 @@
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/profile/hero-banner-mobile.svg">
-  <img src="./assets/profile/hero-banner.svg" alt="catDforD — AI Agents · Research &amp; Build" width="100%">
+  <img src="./assets/profile/hero-banner.svg" alt="Gargantua — AI Agents · Research &amp; Build" width="100%">
 </picture>
 
 <p align="center">

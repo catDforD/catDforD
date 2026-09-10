@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
-  <title id="title">catDforD — AI Agents</title>
+  <title id="title">Gargantua — AI Agents</title>
   <desc id="description">Researching coding agents and building tools at Zhejiang University. A pixel cat and small robots share a quiet, moonlit workshop.</desc>
   <style>
     .cursor { animation: blink 1.6s step-end infinite; }
@@ -16,8 +16,7 @@
   <rect x="24" y="24" width="1152" height="312" rx="12" fill="url(#grid)"/>
   <!-- Introduction -->
   <g font-family="'Trebuchet MS', 'DejaVu Sans', sans-serif">
-    <text x="48" y="184" font-size="84" font-weight="700" letter-spacing="-4" fill="#F5F0E7">catDforD</text>
-    <rect class="cursor" x="460" y="166" width="20" height="8" fill="#80CDB5"/>
+    <text x="48" y="184" font-size="84" font-weight="700" letter-spacing="-4" fill="#F5F0E7">Gargantua<tspan class="cursor" dx="16" font-size="40" letter-spacing="0" fill="#80CDB5">_</tspan></text>
     <text x="52" y="232" font-size="24" fill="#B7C8C6">AI Agents · Research &amp; Build</text>
   </g>
   <!-- A little workshop, assembled from the original pixel artwork -->
