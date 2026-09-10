@@ -12,7 +12,7 @@
 
 ## About me · 关于我
 
-**Hi, I'm catDforD.** A student at Zhejiang University, exploring how coding agents work and building tools around them.
+**Hi, I'm Gargantua.** A student at Zhejiang University, exploring how coding agents work and building tools around them.
 
 你好，我是 Gargantua，就读于浙江大学。喜欢拆解 AI 编程工具，也喜欢把想法做成能用的东西。
 
