@@ -1,97 +1,76 @@
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/profile/hero-banner-mobile.svg">
+  <img src="./assets/profile/hero-banner.svg" alt="catDforD — The Agent Workshop. Research, build, repeat." width="100%">
+</picture>
+
 <p align="center">
-  <img src="./assets/profile/hero-banner.svg" alt="catDforD — The Agent Workshop" width="100%">
+  <a href="#about-me--关于我">About</a> ·
+  <a href="#selected-projects--项目精选">Projects</a> ·
+  <a href="#toolbox--技术栈">Toolbox</a> ·
+  <a href="mailto:3276453835@qq.com">Email ↗</a>
 </p>
 
-<div align="center">
+## About me · 关于我
 
-### catDforD
+**Hi, I'm catDforD.** A student at Zhejiang University, exploring how coding agents work and building tools around them.
 
-AI coding agent researcher & builder — Zhejiang University
+你好，我是 catDforD，就读于浙江大学。喜欢拆解 AI 编程工具，也喜欢把想法做成能用的东西。
 
-</div>
+- **Research / 研究** — Agent 的规划、记忆与工具调用，从阅读实现到最小复现。
+- **Build / 构建** — 编程助手的交互与工作流，让长时间运行的任务更容易观察和控制。
+- **Share / 分享** — 把研究笔记、实验代码和日常工具整理成开源项目。
 
-<br/>
+## Selected projects · 项目精选
 
-### Featured Projects
+从理解 Agent，到连接工作流，再到扩展它的能力。
 
-<div align="center">
-
-<table align="center" width="100%">
+<table width="100%">
   <tr>
-    <td align="center" valign="top" width="33%">
-      <a href="https://github.com/catDforD/coding-agent-lab">
-        <img src="./assets/projects/coding-agent-lab.svg" width="120" alt="coding-agent-lab"/><br/>
-        <strong>coding-agent-lab</strong>
-      </a>
+    <td align="center" width="160">
+      <a href="https://github.com/catDforD/coding-agent-lab"><img src="./assets/projects/coding-agent-lab.svg" width="64" alt="coding-agent-lab"></a>
     </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://github.com/catDforD/VibeLink">
-        <img src="./assets/projects/vibelink.svg" width="120" alt="VibeLink"/><br/>
-        <strong>VibeLink</strong>
-      </a>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://github.com/catDforD/opencode_safe">
-        <img src="./assets/projects/opencode-safe.svg" width="120" alt="opencode_safe"/><br/>
-        <strong>opencode_safe</strong>
-      </a>
+    <td width="720">
+      <strong><a href="https://github.com/catDforD/coding-agent-lab">coding-agent-lab ↗</a></strong> · <code>Python</code><br>
+      学习、拆解、复现和比较 coding agents。<br>
+      <sub>A lab for understanding how coding agents work.</sub>
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top">
-      <sub>Study, reproduce & compare coding agents</sub>
+    <td align="center" width="160">
+      <a href="https://github.com/catDforD/VibeLink"><img src="./assets/projects/vibelink.svg" width="64" alt="VibeLink"></a>
     </td>
-    <td align="center" valign="top">
-      <sub>Connect your vibe coding environment, anywhere</sub>
-    </td>
-    <td align="center" valign="top">
-      <sub>Container-supervised safety for coding agents</sub>
+    <td width="720">
+      <strong><a href="https://github.com/catDforD/VibeLink">VibeLink ↗</a></strong> · <code>Dart</code> <code>Flutter</code><br>
+      从手机连接 AI 编程终端，查看任务、管理会话。<br>
+      <sub>Your AI coding terminal, wherever you are.</sub>
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/Python-8A3B2E?style=flat-square&labelColor=171614&logo=python&logoColor=white" />
+    <td align="center" width="160">
+      <a href="https://github.com/catDforD/skills"><img src="./assets/projects/skills.svg" width="64" alt="skills"></a>
     </td>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/Dart-233642?style=flat-square&labelColor=171614&logo=dart&logoColor=white" />
-    </td>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/Python-8A3B2E?style=flat-square&labelColor=171614&logo=python&logoColor=white" />
+    <td width="720">
+      <strong><a href="https://github.com/catDforD/skills">skills ↗</a></strong> · <code>Python</code><br>
+      为编程助手整理可复用的技能与日常工具。<br>
+      <sub>Reusable skills for everyday agent workflows.</sub>
     </td>
   </tr>
 </table>
 
-<sub>Also building: <a href="https://github.com/catDforD/Polyphony">Polyphony</a> · <a href="https://github.com/catDforD/ZhaoXi">ZhaoXi</a> · <a href="https://github.com/catDforD/skills">skills</a></sub>
+**Also building** · [Polyphony](https://github.com/catDforD/Polyphony) / [ZhaoXi](https://github.com/catDforD/ZhaoXi) / [All repositories ↗](https://github.com/catDforD?tab=repositories)
 
-</div>
+## Toolbox · 技术栈
 
-<br/>
+- **Languages** · `Python` `TypeScript` `Dart`
+- **App & UI** · `React` `Flutter`
+- **Environment** · `Docker` `Linux`
 
-### Current Focus
+## Let's connect · 交流
 
-Exploring how coding agents plan, remember, and use tools — and building interfaces that make long-running AI sessions observable and trustworthy.
+欢迎交流 coding agents、开发工具和有意思的开源项目。
 
-<br/>
-
-### Tech & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-8A3B2E?style=flat-square&labelColor=171614&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-233642?style=flat-square&labelColor=171614&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-D4724E?style=flat-square&labelColor=171614&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-233642?style=flat-square&labelColor=171614&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Docker-8A3B2E?style=flat-square&labelColor=171614&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-233642?style=flat-square&labelColor=171614&logo=linux&logoColor=white" />
-</p>
-
-<br/>
+[Email ↗](mailto:3276453835@qq.com) &nbsp; · &nbsp; [GitHub ↗](https://github.com/catDforD)
 
 ---
 
-<div align="center">
-
-[GitHub](https://github.com/catDforD) · [Email](mailto:3276453835@qq.com)
-
-*Turning messy processes into systems people can trust.*
-
-</div>
+<p align="center"><sub>Understand the agent. Build the tools. Share what works.</sub></p>
