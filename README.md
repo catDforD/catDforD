@@ -1,6 +1,6 @@
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/profile/hero-banner-mobile.jpg">
-  <img src="./assets/profile/hero-banner.jpg" alt="Gargantua — AI Agents · Research &amp; Build" width="100%">
+  <source media="(max-width: 600px)" srcset="./assets/profile/hero-banner-mobile.webp">
+  <img src="./assets/profile/hero-banner.webp" alt="Gargantua — AI Agents · Research &amp; Build" width="100%">
 </picture>
 
 <p align="center">
