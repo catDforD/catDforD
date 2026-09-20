@@ -32,6 +32,13 @@ Hi, I'm Gargantua !
 
 [个人主页 · catdfd.com ↗](https://catdfd.com/) &nbsp; · &nbsp; [Email ↗](mailto:3276453835@qq.com) &nbsp; · &nbsp; [GitHub ↗](https://github.com/catDforD)
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/snake-dark.svg">
+    <img src="./assets/profile/snake.svg" alt="贡献贪吃蛇 · contribution snake" width="100%">
+  </picture>
+</p>
+
 ---
 
 <p align="center"><sub>Understand the agent. Build the tools. Share what works.</sub></p>

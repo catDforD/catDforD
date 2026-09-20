@@ -1,0 +1,33 @@
+name: Generate contribution snake
+
+on:
+  schedule:
+    - cron: "23 2 * * *" # daily, off-peak
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/profile/snake.svg?color_snake=%234fae92&color_dots=%23e9e7e2,%23f0d9b5,%23ebbb82,%23e08d55,%23cf5c3c
+            assets/profile/snake-dark.svg?color_snake=%2380CDB5&color_dots=%2320262b,%237c6a52,%23c99b5b,%23e8874a,%23d4553b
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/profile/snake.svg assets/profile/snake-dark.svg
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: regenerate contribution snake"
+            git push
+          fi
