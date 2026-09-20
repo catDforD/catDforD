@@ -34,8 +34,8 @@ Hi, I'm Gargantua !
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/snake-dark.svg">
-    <img src="./assets/profile/snake.svg" alt="贡献贪吃蛇 · contribution snake" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/snake-dark.svg?v=4">
+    <img src="./assets/profile/snake.svg?v=4" alt="贡献贪吃蛇 · contribution snake" width="100%">
   </picture>
 </p>
 
