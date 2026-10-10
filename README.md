@@ -33,6 +33,15 @@ Hi, I'm Gargantua !
 [个人主页 · catdfd.com ↗](https://catdfd.com/) &nbsp; · &nbsp; [Email ↗](mailto:3276453835@qq.com) &nbsp; · &nbsp; [GitHub ↗](https://github.com/catDforD)
 
 <p align="center">
+  <a href="https://ghfind.com/u/catdford?ref=badge">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/catdford?theme=dark&lang=zh">
+      <img src="https://ghfind.com/api/card/mini/catdford?theme=light&lang=zh" alt="GitHub Roast 评分卡" width="440">
+    </picture>
+  </a>
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/snake-dark.svg?v=4">
     <img src="./assets/profile/snake.svg?v=4" alt="贡献贪吃蛇 · contribution snake" width="100%">
