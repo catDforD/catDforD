@@ -28,13 +28,11 @@ Hi, I'm Gargantua !
 
 ## Let's connect · 交流
 
-欢迎交流开发工具和有意思的开源项目。
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/snake-dark.svg?v=4">
-    <img src="./assets/profile/snake.svg?v=4" alt="贡献贪吃蛇 · contribution snake" width="100%">
-  </picture>
+<p>欢迎交流开发工具和有意思的开源项目。<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/snake-dark.svg?v=4">
+  <img src="./assets/profile/snake.svg?v=4" alt="贡献贪吃蛇 · contribution snake" width="100%">
+</picture>
 </p>
 
-[![catdfd.com](https://img.shields.io/badge/catdfd.com-059669?style=flat&logo=googlechrome&logoColor=white)](https://catdfd.com/) [![Email](https://img.shields.io/badge/Email-2563EB?style=flat&logo=maildotru&logoColor=white)](mailto:3276453835@qq.com) [![GitHub](https://img.shields.io/badge/GitHub-catDforD-181717?style=flat&logo=github&logoColor=white)](https://github.com/catDforD) [![GitHub Roast 评分徽章](https://ghfind.com/api/badge/catdford?lang=zh)](https://ghfind.com/u/catdford?ref=badge)
+[![catdfd.com](https://img.shields.io/badge/catdfd.com-059669?style=flat&logo=googlechrome&logoColor=white)](https://catdfd.com/) [![Email](https://img.shields.io/badge/Email-2563EB?style=flat&logo=maildotru&logoColor=white)](mailto:3276453835@qq.com) [![Followers](https://img.shields.io/github/followers/catDforD?style=flat&label=Followers&color=181717&logo=github&logoColor=white)](https://github.com/catDforD) [![GitHub Roast 评分徽章](https://ghfind.com/api/badge/catdford?lang=zh)](https://ghfind.com/u/catdford?ref=badge)
