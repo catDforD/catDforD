@@ -41,6 +41,4 @@ Hi, I'm Gargantua !
 
 ---
 
-<p align="center"><sub>Understand the agent. Build the tools. Share what works.</sub></p>
-
 [![GitHub Roast 评分徽章](https://ghfind.com/api/badge/catdford?lang=zh)](https://ghfind.com/u/catdford?ref=badge)
