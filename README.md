@@ -30,8 +30,6 @@ Hi, I'm Gargantua !
 
 欢迎交流开发工具和有意思的开源项目。
 
-[个人主页 · catdfd.com ↗](https://catdfd.com/) &nbsp; · &nbsp; [Email ↗](mailto:3276453835@qq.com) &nbsp; · &nbsp; [GitHub ↗](https://github.com/catDforD)
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/snake-dark.svg?v=4">
@@ -39,4 +37,4 @@ Hi, I'm Gargantua !
   </picture>
 </p>
 
-[![GitHub Roast 评分徽章](https://ghfind.com/api/badge/catdford?lang=zh)](https://ghfind.com/u/catdford?ref=badge)
+[![catdfd.com](https://img.shields.io/badge/catdfd.com-059669?style=flat&logo=googlechrome&logoColor=white)](https://catdfd.com/) [![Email](https://img.shields.io/badge/Email-2563EB?style=flat&logo=maildotru&logoColor=white)](mailto:3276453835@qq.com) [![GitHub](https://img.shields.io/badge/GitHub-catDforD-181717?style=flat&logo=github&logoColor=white)](https://github.com/catDforD) [![GitHub Roast 评分徽章](https://ghfind.com/api/badge/catdford?lang=zh)](https://ghfind.com/u/catdford?ref=badge)
