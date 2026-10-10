@@ -39,6 +39,4 @@ Hi, I'm Gargantua !
   </picture>
 </p>
 
----
-
 [![GitHub Roast 评分徽章](https://ghfind.com/api/badge/catdford?lang=zh)](https://ghfind.com/u/catdford?ref=badge)
